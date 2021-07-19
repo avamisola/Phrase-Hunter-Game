@@ -1,5 +1,4 @@
-# python_techdegree_project_3
- Phrase Hunters
+# Phrase Hunter Game
 
 To start, run python app.py
 
